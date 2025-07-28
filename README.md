@@ -34,7 +34,7 @@ This is an interactive Sales Analysis dashboard created using **Microsoft Excel*
 ## 📷 Dashboard Screenshots
 
 ### 🧾 Orders Dashboard
-![Orders Dashboard](images/Orders.png)
+![image alt](https://github.com/Minaashak/Sales/blob/main/Orders.png?raw=true)
 
 ### 💰 Sales Dashboard Overview
 ![image alt](https://github.com/Minaashak/Sales/blob/main/OverView.png?raw=true)
